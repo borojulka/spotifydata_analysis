@@ -1,2 +1,2 @@
 # spotifydata_analysis
-Statystyczna analiza danych pobranych ze Spotify
+Statystyczna analiza danych dotyczących popularności utworoów i wykonawców na portalu Spotify.
